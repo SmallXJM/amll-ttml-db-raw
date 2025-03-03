@@ -14,6 +14,7 @@
             <amll:meta key="ncmMusicId" value="2109079672" />
             <amll:meta key="ncmMusicId" value="28111636" />
             <amll:meta key="ncmMusicId" value="1900980219" />
+            <amll:meta key="ncmMusicId" value="2057152609" />
             <amll:meta key="album" value="我们的主打歌 3" />
             <amll:meta key="album" value="Love国语情歌集" />
             <amll:meta key="album" value="Urban Emotions" />
@@ -21,6 +22,7 @@
             <amll:meta key="album" value="他在耳边" />
             <amll:meta key="album" value="是时候…" />
             <amll:meta key="album" value="张敬轩国语苦恋情歌" />
+            <amll:meta key="album" value="夏日跟唱经典曲" />
             <amll:meta key="ttmlAuthorGithub" value="37766687" />
             <amll:meta key="ttmlAuthorGithubLogin" value="SmallXJM" />
         </metadata>
@@ -182,89 +184,88 @@
                     end="02:05.064">吻</span><span begin="02:05.064" end="02:05.283">得</span><span begin="02:05.283"
                     end="02:05.509">太</span><span begin="02:05.509" end="02:05.918">逼</span><span begin="02:05.918"
                     end="02:06.471">真</span></p>
-            <p begin="02:04.475" end="02:06.000" ttm:agent="v1" itunes:key="L30"><span begin="02:04.475"
-                    end="02:06.000">Ooh</span></p>
+            <p begin="02:04.475" end="02:08.080" ttm:agent="v1" itunes:key="L30"><span begin="02:04.475"
+                    end="02:06.000">Ooh</span> <span begin="02:06.000" end="02:07.016">爱</span><span begin="02:07.016"
+                    end="02:08.080">你</span></p>
             <p begin="02:06.471" end="02:08.080" ttm:agent="v2" itunes:key="L31"><span begin="02:06.471"
                     end="02:06.594">让</span><span begin="02:06.594" end="02:06.771">我</span><span begin="02:06.771"
                     end="02:07.047">把</span><span begin="02:07.047" end="02:07.227">虚</span><span begin="02:07.227"
                     end="02:07.508">情</span><span begin="02:07.508" end="02:07.866">假</span><span begin="02:07.866"
                     end="02:08.080">意</span></p>
-            <p begin="02:06.490" end="02:08.080" ttm:agent="v1" itunes:key="L32"><span begin="02:06.490"
-                    end="02:07.016">爱</span><span begin="02:07.016" end="02:08.080">你</span></p>
-            <p begin="02:08.315" end="02:10.487" ttm:agent="v2" itunes:key="L33"><span begin="02:08.315"
+            <p begin="02:08.315" end="02:10.487" ttm:agent="v2" itunes:key="L32"><span begin="02:08.315"
                     end="02:08.521">当</span><span begin="02:08.521" end="02:08.799">作</span><span begin="02:08.799"
                     end="02:08.978">最</span><span begin="02:08.978" end="02:09.377">真</span><span begin="02:09.377"
                     end="02:09.839">心</span><span begin="02:09.839" end="02:10.042">的</span><span begin="02:10.042"
                     end="02:10.247">亲</span><span begin="02:10.247" end="02:10.487">吻</span></p>
-            <p begin="02:08.799" end="02:10.487" ttm:agent="v1" itunes:key="L34"><span begin="02:08.799"
+            <p begin="02:08.799" end="02:10.487" ttm:agent="v1" itunes:key="L33"><span begin="02:08.799"
                     end="02:10.487">Ooh</span></p>
-            <p begin="02:10.853" end="02:13.394" ttm:agent="v1" itunes:key="L35"><span begin="02:10.853"
+            <p begin="02:10.853" end="02:13.394" ttm:agent="v1" itunes:key="L34"><span begin="02:10.853"
                     end="02:11.102">怪</span><span begin="02:11.102" end="02:11.315">自</span><span begin="02:11.315"
                     end="02:11.718">己</span><span begin="02:11.718" end="02:11.934">来</span><span begin="02:11.934"
                     end="02:12.178">不</span><span begin="02:12.178" end="02:12.418">及</span><span begin="02:12.418"
                     end="02:12.893">区</span><span begin="02:12.893" end="02:13.394">分</span></p>
-            <p begin="02:13.551" end="02:18.353" ttm:agent="v1" itunes:key="L36"><span begin="02:13.551"
+            <p begin="02:13.551" end="02:18.353" ttm:agent="v1" itunes:key="L35"><span begin="02:13.551"
                     end="02:13.718">你</span><span begin="02:13.718" end="02:13.930">对</span><span begin="02:13.930"
                     end="02:14.313">我</span><span begin="02:14.313" end="02:14.537">是</span><span begin="02:14.537"
                     end="02:14.962">酷</span><span begin="02:14.962" end="02:15.369">爱</span><span begin="02:15.369"
                     end="02:15.759">是</span><span begin="02:15.759" end="02:16.222">敷</span><span begin="02:16.222"
                     end="02:18.353">衍</span></p>
-            <p begin="02:17.037" end="02:18.353" ttm:agent="v2" itunes:key="L37"><span begin="02:17.037"
+            <p begin="02:17.037" end="02:18.353" ttm:agent="v2" itunes:key="L36"><span begin="02:17.037"
                     end="02:17.155">我</span><span begin="02:17.155" end="02:17.339">想</span><span begin="02:17.339"
                     end="02:17.544">问</span><span begin="02:17.544" end="02:17.750">问</span><span begin="02:17.750"
                     end="02:17.972">问</span><span begin="02:17.972" end="02:18.149">问</span><span begin="02:18.149"
                     end="02:18.353">问</span></p>
-            <p begin="02:18.384" end="02:20.001" ttm:agent="v2" itunes:key="L38"><span begin="02:18.384"
+            <p begin="02:18.384" end="02:20.001" ttm:agent="v2" itunes:key="L37"><span begin="02:18.384"
                     end="02:18.573">我</span><span begin="02:18.573" end="02:18.881">该</span><span begin="02:18.881"
                     end="02:18.980">怎</span><span begin="02:18.980" end="02:19.188">么</span><span begin="02:19.188"
                     end="02:19.610">脱</span><span begin="02:19.610" end="02:20.001">身</span></p>
-            <p begin="02:20.140" end="02:23.513" ttm:agent="v2" itunes:key="L39"><span begin="02:20.140"
+            <p begin="02:20.140" end="02:23.513" ttm:agent="v2" itunes:key="L38"><span begin="02:20.140"
                     end="02:20.332">你</span><span begin="02:20.332" end="02:20.527">却</span><span begin="02:20.527"
                     end="02:20.794">说</span><span begin="02:20.794" end="02:21.172">花</span><span begin="02:21.172"
                     end="02:21.579">花</span><span begin="02:21.579" end="02:22.013">世</span><span begin="02:22.013"
                     end="02:22.482">界</span><span begin="02:22.482" end="02:22.673">不</span><span begin="02:22.673"
                     end="02:22.887">必</span><span begin="02:22.887" end="02:23.091">当</span><span begin="02:23.091"
                     end="02:23.513">真</span></p>
-            <p begin="02:23.640" end="02:25.408" ttm:agent="v1" itunes:key="L40"><span begin="02:23.640"
+            <p begin="02:23.640" end="02:25.408" ttm:agent="v1" itunes:key="L39"><span begin="02:23.640"
                     end="02:23.916">多</span><span begin="02:23.916" end="02:24.345">么</span><span begin="02:24.345"
                     end="02:24.855">伤</span><span begin="02:24.855" end="02:25.408">人</span></p>
-            <p begin="02:25.758" end="02:27.181" ttm:agent="v1" itunes:key="L41"><span begin="02:25.758"
+            <p begin="02:25.758" end="02:27.181" ttm:agent="v1" itunes:key="L40"><span begin="02:25.758"
                     end="02:25.927">让</span><span begin="02:25.927" end="02:26.150">我</span><span begin="02:26.150"
                     end="02:26.561">爱</span><span begin="02:26.561" end="02:27.181">上</span></p>
-            <p begin="02:27.243" end="02:29.508" ttm:agent="v1" itunes:key="L42"><span begin="02:27.243"
+            <p begin="02:27.243" end="02:29.508" ttm:agent="v1" itunes:key="L41"><span begin="02:27.243"
                     end="02:27.432">薄</span><span begin="02:27.432" end="02:27.661">情</span><span begin="02:27.661"
                     end="02:27.876">的</span><span begin="02:27.876" end="02:28.270">红</span><span begin="02:28.270"
                     end="02:29.508">唇</span></p>
-            <p begin="02:29.508" end="02:31.071" ttm:agent="v1" itunes:key="L43"><span begin="02:29.508"
+            <p begin="02:29.508" end="02:31.071" ttm:agent="v1" itunes:key="L42"><span begin="02:29.508"
                     end="02:30.244">Ooh</span> <span begin="02:30.244" end="02:31.071">ho</span></p>
-            <p begin="02:31.591" end="02:34.571" ttm:agent="v1" itunes:key="L44"><span begin="02:31.591"
+            <p begin="02:31.591" end="02:34.571" ttm:agent="v1" itunes:key="L43"><span begin="02:31.591"
                     end="02:31.781">深</span><span begin="02:31.781" end="02:32.308">渊</span><span begin="02:32.308"
                     end="02:32.767">万</span><span begin="02:32.767" end="02:33.250">丈</span><span begin="02:33.250"
                     end="02:33.449">你</span><span begin="02:33.449" end="02:33.885">把</span><span begin="02:33.885"
                     end="02:34.074">我</span><span begin="02:34.074" end="02:34.263">的</span><span begin="02:34.263"
                     end="02:34.571">爱</span></p>
-            <p begin="02:34.610" end="02:37.541" ttm:agent="v1" itunes:key="L45"><span begin="02:34.610"
+            <p begin="02:34.610" end="02:37.541" ttm:agent="v1" itunes:key="L44"><span begin="02:34.610"
                     end="02:34.875">用</span><span begin="02:34.875" end="02:35.131">尽</span><span begin="02:35.131"
                     end="02:35.449">后</span><span begin="02:35.449" end="02:35.655">丢</span><span begin="02:35.655"
                     end="02:35.985">弃</span><span begin="02:35.985" end="02:36.202">荒</span><span begin="02:36.202"
                     end="02:36.608">野</span><span begin="02:36.608" end="02:36.826">埋</span><span begin="02:36.826"
                     end="02:37.541">葬</span></p>
-            <p begin="02:37.732" end="02:40.912" ttm:agent="v1" itunes:key="L46"><span begin="02:37.732"
+            <p begin="02:37.732" end="02:40.912" ttm:agent="v1" itunes:key="L45"><span begin="02:37.732"
                     end="02:37.901">你</span><span begin="02:37.901" end="02:38.341">犯</span><span begin="02:38.341"
                     end="02:38.545">的</span><span begin="02:38.545" end="02:38.956">罪</span><span begin="02:38.956"
                     end="02:39.377">状</span><span begin="02:39.377" end="02:39.760">没</span><span begin="02:39.760"
                     end="02:40.207">人</span><span begin="02:40.207" end="02:40.662">知</span><span begin="02:40.662"
                     end="02:40.912">道</span></p>
-            <p begin="02:41.317" end="02:44.977" ttm:agent="v1" itunes:key="L47"><span begin="02:41.317"
+            <p begin="02:41.317" end="02:44.977" ttm:agent="v1" itunes:key="L46"><span begin="02:41.317"
                     end="02:41.695">用</span><span begin="02:41.695" end="02:41.980">什</span><span begin="02:41.980"
                     end="02:42.448">么</span><span begin="02:42.448" end="02:42.834">证</span><span begin="02:42.834"
                     end="02:43.256">明</span><span begin="02:43.256" end="02:43.671">你</span><span begin="02:43.671"
                     end="02:44.064">的</span><span begin="02:44.064" end="02:44.579">亲</span><span begin="02:44.579"
                     end="02:44.977">吻</span></p>
-            <p begin="02:45.158" end="02:49.639" ttm:agent="v1" itunes:key="L48"><span begin="02:45.158"
+            <p begin="02:45.158" end="02:49.639" ttm:agent="v1" itunes:key="L47"><span begin="02:45.158"
                     end="02:45.474">真</span><span begin="02:45.474" end="02:45.885">的</span><span begin="02:45.885"
                     end="02:46.340">残</span><span begin="02:46.340" end="02:49.639">忍</span></p>
-            <p begin="02:47.863" end="02:50.978" ttm:agent="v2" itunes:key="L49"><span begin="02:47.863"
+            <p begin="02:47.863" end="02:50.978" ttm:agent="v2" itunes:key="L48"><span begin="02:47.863"
                     end="02:47.928">和</span><span begin="02:47.928" end="02:48.142">你</span><span begin="02:48.142"
                     end="02:48.344">吻</span><span begin="02:48.344" end="02:48.552">吻</span><span begin="02:48.552"
                     end="02:48.791">吻</span><span begin="02:48.791" end="02:48.964">吻</span><span begin="02:48.964"
@@ -272,7 +273,7 @@
                     end="02:49.631">吻</span><span begin="02:49.631" end="02:49.839">得</span><span begin="02:49.839"
                     end="02:50.043">太</span><span begin="02:50.043" end="02:50.457">逼</span><span begin="02:50.457"
                     end="02:50.978">真</span></p>
-            <p begin="02:48.688" end="02:51.521" ttm:agent="v1" itunes:key="L50"><span begin="02:48.688"
+            <p begin="02:48.688" end="02:51.521" ttm:agent="v1" itunes:key="L49"><span begin="02:48.688"
                     end="02:48.826">我</span><span begin="02:48.826" end="02:48.986">不</span><span begin="02:48.986"
                     end="02:49.145">知</span><span begin="02:49.145" end="02:49.297">为</span><span begin="02:49.297"
                     end="02:49.439">什</span><span begin="02:49.439" end="02:49.639">么</span><span begin="02:49.639"
@@ -281,76 +282,76 @@
                     end="02:50.771">我</span><span begin="02:50.771" end="02:50.964">毫</span><span begin="02:50.964"
                     end="02:51.170">无</span><span begin="02:51.170" end="02:51.343">感</span><span begin="02:51.343"
                     end="02:51.521">觉</span></p>
-            <p begin="02:51.039" end="02:52.829" ttm:agent="v2" itunes:key="L51"><span begin="02:51.039"
+            <p begin="02:51.039" end="02:52.829" ttm:agent="v2" itunes:key="L50"><span begin="02:51.039"
                     end="02:51.274">让</span><span begin="02:51.274" end="02:51.490">我</span><span begin="02:51.490"
                     end="02:51.747">把</span><span begin="02:51.747" end="02:51.954">虚</span><span begin="02:51.954"
                     end="02:52.192">情</span><span begin="02:52.192" end="02:52.586">假</span><span begin="02:52.586"
                     end="02:52.829">意</span></p>
-            <p begin="02:51.817" end="02:53.049" ttm:agent="v1" itunes:key="L52"><span begin="02:51.817"
+            <p begin="02:51.817" end="02:53.049" ttm:agent="v1" itunes:key="L51"><span begin="02:51.817"
                     end="02:52.006">以</span><span begin="02:52.006" end="02:52.273">前</span><span begin="02:52.273"
                     end="02:52.442">种</span><span begin="02:52.442" end="02:52.644">种</span><span begin="02:52.644"
                     end="02:52.867">快</span><span begin="02:52.867" end="02:53.049">乐</span></p>
-            <p begin="02:52.896" end="02:55.000" ttm:agent="v2" itunes:key="L53"><span begin="02:52.896"
+            <p begin="02:52.896" end="02:55.000" ttm:agent="v2" itunes:key="L52"><span begin="02:52.896"
                     end="02:53.094">当</span><span begin="02:53.094" end="02:53.287">作</span><span begin="02:53.287"
                     end="02:53.486">最</span><span begin="02:53.486" end="02:53.893">真</span><span begin="02:53.893"
                     end="02:54.412">心</span><span begin="02:54.412" end="02:54.591">的</span><span begin="02:54.591"
                     end="02:54.805">亲</span><span begin="02:54.805" end="02:55.000">吻</span></p>
-            <p begin="02:53.173" end="02:55.095" ttm:agent="v1" itunes:key="L54"><span begin="02:53.173"
+            <p begin="02:53.173" end="02:55.095" ttm:agent="v1" itunes:key="L53"><span begin="02:53.173"
                     end="02:53.336">就</span><span begin="02:53.336" end="02:53.521">好</span><span begin="02:53.521"
                     end="02:53.778">像</span><span begin="02:53.778" end="02:53.974">成</span><span begin="02:53.974"
                     end="02:54.197">为</span><span begin="02:54.197" end="02:54.386">一</span><span begin="02:54.386"
                     end="02:54.584">种</span><span begin="02:54.584" end="02:54.773">罪</span><span begin="02:54.773"
                     end="02:55.095">恶</span></p>
-            <p begin="02:55.197" end="02:57.825" ttm:agent="v1" itunes:key="L55"><span begin="02:55.197"
+            <p begin="02:55.197" end="02:57.825" ttm:agent="v1" itunes:key="L54"><span begin="02:55.197"
                     end="02:55.411">我</span><span begin="02:55.411" end="02:55.651">的</span><span begin="02:55.651"
                     end="02:55.886">心</span><span begin="02:55.886" end="02:56.329">情</span><span begin="02:56.329"
                     end="02:56.590">你</span><span begin="02:56.590" end="02:56.788">不</span><span begin="02:56.788"
                     end="02:57.148">闻</span><span begin="02:57.148" end="02:57.371">不</span><span begin="02:57.371"
                     end="02:57.825">问</span></p>
-            <p begin="02:55.563" end="02:58.049" ttm:agent="v2" itunes:key="L56"><span begin="02:55.563"
+            <p begin="02:55.563" end="02:58.049" ttm:agent="v2" itunes:key="L55"><span begin="02:55.563"
                     end="02:55.815">怪</span><span begin="02:55.815" end="02:56.046">自</span><span begin="02:56.046"
                     end="02:56.508">己</span><span begin="02:56.508" end="02:56.704">来</span><span begin="02:56.704"
                     end="02:56.917">不</span><span begin="02:56.917" end="02:57.097">及</span><span begin="02:57.097"
                     end="02:57.534">区</span><span begin="02:57.534" end="02:58.049">分</span></p>
-            <p begin="02:58.049" end="02:59.543" ttm:agent="v1" itunes:key="L57"><span begin="02:58.049"
+            <p begin="02:58.049" end="02:59.543" ttm:agent="v1" itunes:key="L56"><span begin="02:58.049"
                     end="02:58.071">或</span><span begin="02:58.071" end="02:58.254">者</span><span begin="02:58.254"
                     end="02:58.503">其</span><span begin="02:58.503" end="02:58.698">实</span><span begin="02:58.698"
                     end="02:58.878">所</span><span begin="02:58.878" end="02:59.055">谓</span><span begin="02:59.055"
                     end="02:59.305">爱</span><span begin="02:59.305" end="02:59.543">情</span></p>
-            <p begin="02:58.168" end="03:01.490" ttm:agent="v2" itunes:key="L58"><span begin="02:58.168"
+            <p begin="02:58.168" end="03:01.490" ttm:agent="v2" itunes:key="L57"><span begin="02:58.168"
                     end="02:58.265">你</span><span begin="02:58.265" end="02:58.619">对</span><span begin="02:58.619"
                     end="02:58.951">我</span><span begin="02:58.951" end="02:59.150">是</span><span begin="02:59.150"
                     end="02:59.499">酷</span><span begin="02:59.499" end="02:59.942">爱</span><span begin="02:59.942"
                     end="03:00.331">是</span><span begin="03:00.331" end="03:00.780">敷</span><span begin="03:00.780"
                     end="03:01.490">衍</span></p>
-            <p begin="02:59.702" end="03:01.869" ttm:agent="v1" itunes:key="L59"><span begin="02:59.702"
+            <p begin="02:59.702" end="03:01.869" ttm:agent="v1" itunes:key="L58"><span begin="02:59.702"
                     end="02:59.706">都</span><span begin="02:59.706" end="02:59.893">只</span><span begin="02:59.893"
                     end="03:00.117">是</span><span begin="03:00.117" end="03:00.357">彼</span><span begin="03:00.357"
                     end="03:00.599">此</span><span begin="03:00.599" end="03:00.816">填</span><span begin="03:00.816"
                     end="03:01.062">满</span><span begin="03:01.062" end="03:01.226">寂</span><span begin="03:01.226"
                     end="03:01.436">寞</span><span begin="03:01.436" end="03:01.622">空</span><span begin="03:01.622"
                     end="03:01.869">虚</span></p>
-            <p begin="03:01.500" end="03:02.956" ttm:agent="v2" itunes:key="L60"><span begin="03:01.500"
+            <p begin="03:01.500" end="03:02.956" ttm:agent="v2" itunes:key="L59"><span begin="03:01.500"
                     end="03:01.604">我</span><span begin="03:01.604" end="03:01.837">想</span><span begin="03:01.837"
                     end="03:02.039">问</span><span begin="03:02.039" end="03:02.276">问</span><span begin="03:02.276"
                     end="03:02.476">问</span><span begin="03:02.476" end="03:02.671">问</span><span begin="03:02.671"
                     end="03:02.956">问</span></p>
-            <p begin="03:02.135" end="03:04.578" ttm:agent="v1" itunes:key="L61"><span begin="03:02.135"
+            <p begin="03:02.135" end="03:04.578" ttm:agent="v1" itunes:key="L60"><span begin="03:02.135"
                     end="03:02.310">或</span><span begin="03:02.310" end="03:02.509">者</span><span begin="03:02.509"
                     end="03:02.758">是</span><span begin="03:02.758" end="03:02.959">一</span><span begin="03:02.959"
                     end="03:03.161">种</span><span begin="03:03.161" end="03:03.359">冲</span><span begin="03:03.359"
                     end="03:03.566">动</span><span begin="03:03.566" end="03:03.930">的</span><span begin="03:03.930"
                     end="03:04.264">幻</span><span begin="03:04.264" end="03:04.578">觉</span></p>
-            <p begin="03:02.905" end="03:04.663" ttm:agent="v2" itunes:key="L62"><span begin="03:02.905"
+            <p begin="03:02.905" end="03:04.663" ttm:agent="v2" itunes:key="L61"><span begin="03:02.905"
                     end="03:03.158">我</span><span begin="03:03.158" end="03:03.365">该</span><span begin="03:03.365"
                     end="03:03.615">怎</span><span begin="03:03.615" end="03:03.816">么</span><span begin="03:03.816"
                     end="03:04.259">脱</span><span begin="03:04.259" end="03:04.663">身</span></p>
-            <p begin="03:04.709" end="03:06.844" ttm:agent="v2" itunes:key="L63"><span begin="03:04.709"
+            <p begin="03:04.709" end="03:06.844" ttm:agent="v2" itunes:key="L62"><span begin="03:04.709"
                     end="03:04.915">你</span><span begin="03:04.915" end="03:05.090">却</span><span begin="03:05.090"
                     end="03:05.324">说</span><span begin="03:05.324" end="03:05.743">花</span><span begin="03:05.743"
                     end="03:06.171">花</span><span begin="03:06.171" end="03:06.610">世</span><span begin="03:06.610"
                     end="03:06.844">界</span></p>
-            <p begin="03:04.720" end="03:07.845" ttm:agent="v1" itunes:key="L64"><span begin="03:04.720"
+            <p begin="03:04.720" end="03:07.845" ttm:agent="v1" itunes:key="L63"><span begin="03:04.720"
                     end="03:04.922">让</span><span begin="03:04.922" end="03:05.118">自</span><span begin="03:05.118"
                     end="03:05.351">己</span><span begin="03:05.351" end="03:05.554">失</span><span begin="03:05.554"
                     end="03:05.731">去</span><span begin="03:05.731" end="03:05.956">理</span><span begin="03:05.956"
@@ -358,26 +359,26 @@
                     end="03:06.580">最</span><span begin="03:06.580" end="03:07.023">后</span><span begin="03:07.023"
                     end="03:07.231">得</span><span begin="03:07.231" end="03:07.456">到</span><span begin="03:07.456"
                     end="03:07.654">教</span><span begin="03:07.654" end="03:07.845">训</span></p>
-            <p begin="03:07.124" end="03:08.001" ttm:agent="v2" itunes:key="L65"><span begin="03:07.124"
+            <p begin="03:07.124" end="03:08.001" ttm:agent="v2" itunes:key="L64"><span begin="03:07.124"
                     end="03:07.334">不</span><span begin="03:07.334" end="03:07.476">必</span><span begin="03:07.476"
                     end="03:07.694">当</span><span begin="03:07.694" end="03:08.001">真</span></p>
-            <p begin="03:08.175" end="03:10.280" ttm:agent="v2" itunes:key="L66"><span begin="03:08.175"
+            <p begin="03:08.175" end="03:10.280" ttm:agent="v2" itunes:key="L65"><span begin="03:08.175"
                     end="03:08.605">多</span><span begin="03:08.605" end="03:08.943">么</span><span begin="03:08.943"
                     end="03:09.417">伤</span><span begin="03:09.417" end="03:10.280">人</span></p>
-            <p begin="03:08.175" end="03:10.937" ttm:agent="v1" itunes:key="L67"><span begin="03:08.175"
+            <p begin="03:08.175" end="03:10.937" ttm:agent="v1" itunes:key="L66"><span begin="03:08.175"
                     end="03:08.268">何</span><span begin="03:08.268" end="03:08.599">时</span><span begin="03:08.599"
                     end="03:08.862">有</span><span begin="03:08.862" end="03:09.037">感</span><span begin="03:09.037"
                     end="03:09.376">觉</span><span begin="03:09.376" end="03:09.595">到</span><span begin="03:09.595"
                     end="03:09.793">何</span><span begin="03:09.793" end="03:10.020">时</span><span begin="03:10.020"
                     end="03:10.165">没</span><span begin="03:10.165" end="03:10.409">有</span><span begin="03:10.409"
                     end="03:10.630">知</span><span begin="03:10.630" end="03:10.937">觉</span></p>
-            <p begin="03:10.311" end="03:14.140" ttm:agent="v2" itunes:key="L68"><span begin="03:10.311"
+            <p begin="03:10.311" end="03:14.140" ttm:agent="v2" itunes:key="L67"><span begin="03:10.311"
                     end="03:10.413">让</span><span begin="03:10.413" end="03:10.690">我</span><span begin="03:10.690"
                     end="03:11.019">爱</span><span begin="03:11.019" end="03:11.770">上</span><span begin="03:11.770"
                     end="03:11.909">薄</span><span begin="03:11.909" end="03:12.145">情</span><span begin="03:12.145"
                     end="03:12.398">的</span><span begin="03:12.398" end="03:12.815">红</span><span begin="03:12.815"
                     end="03:14.140">唇</span></p>
-            <p begin="03:11.161" end="03:15.400" ttm:agent="v1" itunes:key="L69"><span begin="03:11.161"
+            <p begin="03:11.161" end="03:15.400" ttm:agent="v1" itunes:key="L68"><span begin="03:11.161"
                     end="03:11.418">就</span><span begin="03:11.418" end="03:11.540">算</span><span begin="03:11.540"
                     end="03:11.742">你</span><span begin="03:11.742" end="03:11.960">突</span><span begin="03:11.960"
                     end="03:12.208">然</span><span begin="03:12.208" end="03:12.403">失</span><span begin="03:12.403"
@@ -389,9 +390,9 @@
                     end="03:14.767">能</span><span begin="03:14.767" end="03:14.939">不</span><span begin="03:14.939"
                     end="03:15.151">该</span><span begin="03:15.151" end="03:15.362">继</span><span begin="03:15.362"
                     end="03:15.400">续</span></p>
-            <p begin="03:14.199" end="03:15.400" ttm:agent="v2" itunes:key="L70"><span begin="03:14.199"
+            <p begin="03:14.199" end="03:15.400" ttm:agent="v2" itunes:key="L69"><span begin="03:14.199"
                     end="03:15.400">Ohh</span></p>
-            <p begin="03:15.400" end="03:18.429" ttm:agent="v2" itunes:key="L71"><span begin="03:15.400"
+            <p begin="03:15.400" end="03:18.429" ttm:agent="v2" itunes:key="L70"><span begin="03:15.400"
                     end="03:15.500">和</span><span begin="03:15.500" end="03:15.539">你</span><span begin="03:15.539"
                     end="03:15.765">吻</span><span begin="03:15.765" end="03:15.967">吻</span><span begin="03:15.967"
                     end="03:16.193">吻</span><span begin="03:16.193" end="03:16.383">吻</span><span begin="03:16.383"
@@ -399,47 +400,47 @@
                     end="03:17.055">吻</span><span begin="03:17.055" end="03:17.277">得</span><span begin="03:17.277"
                     end="03:17.473">太</span><span begin="03:17.473" end="03:17.853">逼</span><span begin="03:17.853"
                     end="03:18.429">真</span></p>
-            <p begin="03:15.781" end="03:18.429" ttm:agent="v1" itunes:key="L72"><span begin="03:15.781"
+            <p begin="03:15.781" end="03:18.429" ttm:agent="v1" itunes:key="L71"><span begin="03:15.781"
                     end="03:16.434">你</span><span begin="03:16.434" end="03:16.886">吻</span><span begin="03:16.886"
                     end="03:17.310">得</span><span begin="03:17.310" end="03:17.494">太</span><span begin="03:17.494"
                     end="03:17.935">逼</span><span begin="03:17.935" end="03:18.429">真</span></p>
-            <p begin="03:18.429" end="03:20.329" ttm:agent="v2" itunes:key="L73"><span begin="03:18.429"
+            <p begin="03:18.429" end="03:20.329" ttm:agent="v2" itunes:key="L72"><span begin="03:18.429"
                     end="03:18.594">让</span><span begin="03:18.594" end="03:18.805">我</span><span begin="03:18.805"
                     end="03:19.001">把</span><span begin="03:19.001" end="03:19.210">虚</span><span begin="03:19.210"
                     end="03:19.426">情</span><span begin="03:19.426" end="03:19.912">假</span><span begin="03:19.912"
                     end="03:20.329">意</span></p>
-            <p begin="03:19.178" end="03:22.510" ttm:agent="v1" itunes:key="L74"><span begin="03:19.178"
+            <p begin="03:19.178" end="03:22.510" ttm:agent="v1" itunes:key="L73"><span begin="03:19.178"
                     end="03:20.084">我</span><span begin="03:20.084" end="03:20.568">已</span><span begin="03:20.568"
                     end="03:20.795">无</span><span begin="03:20.795" end="03:21.393">法</span><span begin="03:21.393"
                     end="03:21.546">脱</span><span begin="03:21.546" end="03:22.510">身</span></p>
-            <p begin="03:20.376" end="03:22.632" ttm:agent="v2" itunes:key="L75"><span begin="03:20.376"
+            <p begin="03:20.376" end="03:22.632" ttm:agent="v2" itunes:key="L74"><span begin="03:20.376"
                     end="03:20.456">当</span><span begin="03:20.456" end="03:20.732">作</span><span begin="03:20.732"
                     end="03:20.957">最</span><span begin="03:20.957" end="03:21.306">真</span><span begin="03:21.306"
                     end="03:21.819">心</span><span begin="03:21.819" end="03:21.946">的</span><span begin="03:21.946"
                     end="03:22.226">亲</span><span begin="03:22.226" end="03:22.632">吻</span></p>
-            <p begin="03:22.866" end="03:23.755" ttm:agent="v1" itunes:key="L76"><span begin="03:22.866"
+            <p begin="03:22.866" end="03:23.755" ttm:agent="v1" itunes:key="L75"><span begin="03:22.866"
                     end="03:23.755">Ooh</span></p>
-            <p begin="03:22.866" end="03:25.288" ttm:agent="v2" itunes:key="L77"><span begin="03:22.866"
+            <p begin="03:22.866" end="03:25.288" ttm:agent="v2" itunes:key="L76"><span begin="03:22.866"
                     end="03:23.129">怪</span><span begin="03:23.129" end="03:23.314">自</span><span begin="03:23.314"
                     end="03:23.713">己</span><span begin="03:23.713" end="03:23.939">来</span><span begin="03:23.939"
                     end="03:24.195">不</span><span begin="03:24.195" end="03:24.385">及</span><span begin="03:24.385"
                     end="03:24.785">区</span><span begin="03:24.785" end="03:25.288">分</span></p>
-            <p begin="03:23.925" end="03:25.520" ttm:agent="v1" itunes:key="L78"><span begin="03:23.925"
+            <p begin="03:23.925" end="03:25.520" ttm:agent="v1" itunes:key="L77"><span begin="03:23.925"
                     end="03:24.046">最</span><span begin="03:24.046" end="03:24.236">后</span><span begin="03:24.236"
                     end="03:24.395">悲</span><span begin="03:24.395" end="03:24.771">剧</span><span begin="03:24.771"
                     end="03:25.168">发</span><span begin="03:25.168" end="03:25.520">生</span></p>
-            <p begin="03:25.527" end="03:28.689" ttm:agent="v2" itunes:key="L79"><span begin="03:25.527"
+            <p begin="03:25.527" end="03:28.689" ttm:agent="v2" itunes:key="L78"><span begin="03:25.527"
                     end="03:25.652">你</span><span begin="03:25.652" end="03:25.865">对</span><span begin="03:25.865"
                     end="03:26.193">我</span><span begin="03:26.193" end="03:26.534">是</span><span begin="03:26.534"
                     end="03:27.011">酷</span><span begin="03:27.011" end="03:27.345">爱</span><span begin="03:27.345"
                     end="03:27.802">是</span><span begin="03:27.802" end="03:28.196">敷</span><span begin="03:28.196"
                     end="03:28.689">衍</span></p>
-            <p begin="03:25.813" end="03:29.239" ttm:agent="v1" itunes:key="L80"><span begin="03:25.813"
+            <p begin="03:25.813" end="03:29.239" ttm:agent="v1" itunes:key="L79"><span begin="03:25.813"
                     end="03:26.334">我</span><span begin="03:26.334" end="03:26.591">爱</span><span begin="03:26.591"
                     end="03:26.795">的</span><span begin="03:26.795" end="03:27.322">深</span><span begin="03:27.322"
                     end="03:27.745">你</span><span begin="03:27.745" end="03:28.298">没</span><span begin="03:28.298"
                     end="03:28.809">责</span><span begin="03:28.809" end="03:29.239">任</span></p>
-            <p begin="03:28.893" end="03:32.103" ttm:agent="v2" itunes:key="L81"><span begin="03:28.893"
+            <p begin="03:28.893" end="03:32.103" ttm:agent="v2" itunes:key="L80"><span begin="03:28.893"
                     end="03:28.992">我</span><span begin="03:28.992" end="03:29.363">想</span><span begin="03:29.363"
                     end="03:29.491">问</span><span begin="03:29.491" end="03:29.708">问</span><span begin="03:29.708"
                     end="03:29.945">问</span><span begin="03:29.945" end="03:30.160">问</span><span begin="03:30.160"
@@ -447,23 +448,23 @@
                     end="03:30.776">该</span><span begin="03:30.776" end="03:30.998">怎</span><span begin="03:30.998"
                     end="03:31.173">么</span><span begin="03:31.173" end="03:31.678">脱</span><span begin="03:31.678"
                     end="03:32.103">身</span></p>
-            <p begin="03:29.855" end="03:32.103" ttm:agent="v1" itunes:key="L82"><span begin="03:29.855"
+            <p begin="03:29.855" end="03:32.103" ttm:agent="v1" itunes:key="L81"><span begin="03:29.855"
                     end="03:30.138">都</span><span begin="03:30.138" end="03:30.564">怪</span><span begin="03:30.564"
                     end="03:31.053">我</span><span begin="03:31.053" end="03:31.326">太</span><span begin="03:31.326"
                     end="03:31.689">认</span><span begin="03:31.689" end="03:32.103">真</span></p>
-            <p begin="03:32.103" end="03:35.503" ttm:agent="v2" itunes:key="L83"><span begin="03:32.103"
+            <p begin="03:32.103" end="03:35.503" ttm:agent="v2" itunes:key="L82"><span begin="03:32.103"
                     end="03:32.300">你</span><span begin="03:32.300" end="03:32.501">却</span><span begin="03:32.501"
                     end="03:32.733">说</span><span begin="03:32.733" end="03:33.156">花</span><span begin="03:33.156"
                     end="03:33.583">花</span><span begin="03:33.583" end="03:33.990">世</span><span begin="03:33.990"
                     end="03:34.474">界</span><span begin="03:34.474" end="03:34.709">不</span><span begin="03:34.709"
                     end="03:34.894">必</span><span begin="03:34.894" end="03:35.126">当</span><span begin="03:35.126"
                     end="03:35.503">真</span></p>
-            <p begin="03:33.119" end="03:43.152" ttm:agent="v1" itunes:key="L84"><span begin="03:33.119"
+            <p begin="03:33.119" end="03:43.152" ttm:agent="v1" itunes:key="L83"><span begin="03:33.119"
                     end="03:33.605">把</span><span begin="03:33.605" end="03:33.977">薄</span><span begin="03:33.977"
                     end="03:34.452">情</span><span begin="03:34.452" end="03:35.394">的</span><span begin="03:35.394"
                     end="03:36.204">红</span><span begin="03:36.204" end="03:37.904">唇</span><span begin="03:37.904"
                     end="03:39.540">亲</span><span begin="03:39.540" end="03:43.152">吻</span></p>
-            <p begin="03:35.629" end="03:43.152" ttm:agent="v2" itunes:key="L85"><span begin="03:35.629"
+            <p begin="03:35.629" end="03:43.152" ttm:agent="v2" itunes:key="L84"><span begin="03:35.629"
                     end="03:35.997">多</span><span begin="03:35.997" end="03:36.290">么</span><span begin="03:36.290"
                     end="03:36.828">伤</span><span begin="03:36.828" end="03:37.686">人</span><span begin="03:37.686"
                     end="03:37.895">让</span><span begin="03:37.895" end="03:38.163">我</span><span begin="03:38.163"
